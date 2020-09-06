@@ -21,7 +21,7 @@
 title: Ice Blog
 email: cosmicicedev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog written my CosmicIce.
+  A blog by CosmicIce.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.cosmicice.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CosmicIceDev
